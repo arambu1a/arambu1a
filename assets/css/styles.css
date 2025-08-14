@@ -353,8 +353,9 @@ ul {
 
 .proj-img {
 	width: 350px;
-	height: 350px;
+	height: auto;
 	border-radius: 6px;
+	image-rendering: crisp-edges;
 }
 
 
