@@ -401,6 +401,10 @@ ul {
 	line-height: 24px;
 }
 
+.img-description p {
+	font-size: 10px
+}
+
 .img-description i {
 	font-size: 10px;
 }
