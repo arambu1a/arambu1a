@@ -1,4 +1,6 @@
-<h1 align="center">Jorge Arambula</h1>
+<h1 align="center">
+  <img src="nameplate.svg" alt="Jorge Arambula" width="760" />
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=45&lines=hi+there!;nice+to+meet+you.;i+like+to+code;i+also+like+to+play+poker" alt="hi there! nice to meet you. i like to code. i also like to play poker." />
